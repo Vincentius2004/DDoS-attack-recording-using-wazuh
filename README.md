@@ -26,5 +26,5 @@ Using hping3 --flood --syn 192.168.1.100
 
 
 ## 5. WIRESHARK DISPLAY
-Using hping3 --flood --syn 192.168.1.100
+Using tcp.flags.syn == 1 && tcp.flags.ack == 0 && tcp.port == 2222
 ![Kali Linux](foto/Kali-wireshark.png)
