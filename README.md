@@ -17,7 +17,7 @@ Using hping3 --flood --syn 192.168.1.100
 ![Kali Linux](foto/Kali-hping.png)
 
 
-## 3. WAZUH DASHBOARD logs
+## 3. WAZUH DASHBOARD LOGS
 ![Kali Linux](foto/wazuh-manager-log.png)
 
 
@@ -26,4 +26,5 @@ Using hping3 --flood --syn 192.168.1.100
 
 
 ## 5. WIRESHARK DISPLAY
+Using hping3 --flood --syn 192.168.1.100
 ![Kali Linux](foto/Kali-wireshark.png)
